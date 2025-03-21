@@ -120,7 +120,7 @@ nltk.download('stopwords')
 
 | Persian WordCloud | English WordCloud |
 |------------------|-------------------|
-| ![Persian WC](![NewFa_WordClouds](https://github.com/user-attachments/assets/64601f8f-f5ea-4637-8d2d-46553b8ff167)) | *(![NewEn_WordCloud](https://github.com/user-attachments/assets/505694bf-0db5-4ca4-9f7a-8d6877aef5e4))* |
+| !(![NewFa_WordClouds](https://github.com/user-attachments/assets/64601f8f-f5ea-4637-8d2d-46553b8ff167)) | *(![NewEn_WordCloud](https://github.com/user-attachments/assets/505694bf-0db5-4ca4-9f7a-8d6877aef5e4))* |
 ---
 
 ## 📄 License
