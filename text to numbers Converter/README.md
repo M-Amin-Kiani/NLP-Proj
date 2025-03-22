@@ -82,4 +82,4 @@ $ python converter.py
 
 ## 👤 Author
 
-Created with ❤️ by an awesome developer and ChatGPT.
+Created with ❤️ by an awesome developer.
