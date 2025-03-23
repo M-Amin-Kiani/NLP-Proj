@@ -90,7 +90,7 @@ This project was built as part of a university-level NLP assignment, where:
 
 ## 🤖 Author
 
-Developed with ❤️ by [Your Name]  
+Developed with ❤️ by Me  
 If you use this project, please star ⭐ the repo!
 
 ---
