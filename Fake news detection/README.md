@@ -24,6 +24,8 @@ This repository includes:
 - Data loading, preprocessing, and vectorization using **TF-IDF** and **Text-to-Sequence**.
 - Model training using **KNN** and **SVM** algorithms.
 - Evaluation of the models using common classification metrics such as **Accuracy**, **Precision**, **Recall**, and **F1 Score**.
+![1](https://github.com/user-attachments/assets/00d52e1d-3824-4b07-90fd-080b88c0d4e8)
+![2](https://github.com/user-attachments/assets/56abea57-a103-4679-94ba-ed626f9e5247)
 
 ## Requirements
 The following libraries are required to run the code:
