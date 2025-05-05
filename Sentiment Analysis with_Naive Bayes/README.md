@@ -113,12 +113,6 @@ nltk.download('stopwords')
 
 ---
 
-## 📜 License
-
-MIT License © 2025
-
----
-
 ## ✍️ Author
 
-Built with ❤️ by [Your Name] as part of a university NLP assignment.
+Built with ❤️ by Amin Kiani as part of Isfahan university NLP assignment.
