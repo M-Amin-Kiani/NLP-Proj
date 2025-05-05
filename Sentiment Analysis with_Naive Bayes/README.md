@@ -19,7 +19,7 @@ A simple yet powerful sentiment classification pipeline written in pure Python +
 ## ⚙️ Pipeline Overview
 
 1. **Data Loading**  
-   Uses `movie_reviews` corpus from NLTK (2000 reviews, balanced pos/neg).
+   Uses `movie_reviews` (https://www.nltk.org/howto/corpus.html) corpus from NLTK (2000 reviews, balanced pos/neg).
 
 2. **Preprocessing**  
    - Lowercasing
