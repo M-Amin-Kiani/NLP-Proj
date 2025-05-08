@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to contribute or open issues if you have any questions or suggestions!
+Feel free to contribute or open issues if you have any questions or suggestions...!
 
 ---
 
