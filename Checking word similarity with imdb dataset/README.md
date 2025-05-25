@@ -98,4 +98,4 @@ Each model is trained separately on both E2 and Word2Vec sentence representation
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]** as part of an NLP coursework exercise.
+Developed by **[Amin Kiani]** as part of an NLP coursework exercise.
