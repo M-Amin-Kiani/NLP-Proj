@@ -123,7 +123,7 @@ Some key papers and tools used across projects:
 
 ## 📄 License
 
-This repository is licensed under the MIT License.  
+This repository is licensed under the UI License.  
 Feel free to reuse, modify, and share.
 
 ---
