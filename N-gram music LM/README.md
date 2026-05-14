@@ -3,6 +3,7 @@
 A complete statistical music language modeling project based on **N-gram Language Models** and **Lidstone Smoothing** for predicting and generating musical note sequences.
 
 This project was developed as part of an NLP / Statistical Language Modeling assignment and demonstrates how classic NLP techniques can be applied to symbolic music generation.
+
 <img width="434" height="237" alt="image" src="https://github.com/user-attachments/assets/c6c05771-3657-4e5f-958f-7b0f815ae964" />
 
 ---
