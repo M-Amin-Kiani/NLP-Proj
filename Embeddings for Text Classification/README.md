@@ -8,6 +8,7 @@ This project demonstrates how distributed word representations (Word Embeddings)
 - Using **pre-trained GloVe** embeddings.
 
 The generated document embeddings are then evaluated using several classical machine learning classifiers for sentiment analysis and topic classification.
+<img width="358" height="213" alt="image" src="https://github.com/user-attachments/assets/bd628546-89f8-4229-a039-634462e6baa8" />
 
 ---
 
