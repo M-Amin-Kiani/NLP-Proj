@@ -163,6 +163,8 @@ To mitigate the limitations identified above, we propose three theoretical and a
 ight)$$
 * **Impact:** Automatically allocates more privacy budget (larger $C_t$) when public confidence is low (domain-specific entity tokens), and tightens clipping (smaller $C_t$) when public model confidence is high.
 
+<img width="1536" height="1024" alt="Modular Updates on LLM" src="https://github.com/user-attachments/assets/a5859268-2c12-484f-b4e2-c3e23b52ccfe" />
+
 ---
 
 ## 7. Project Setup & Quickstart
