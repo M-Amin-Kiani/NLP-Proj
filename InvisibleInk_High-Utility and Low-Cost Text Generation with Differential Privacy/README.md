@@ -6,6 +6,8 @@
 [![License](https://img.shields.io/badge/License-UI-green.svg)](LICENSE)
 [![Domain](https://img.shields.io/badge/NLP-Differential%20Privacy-purple.svg)]()
 
+<img width="1536" height="1024" alt="InvisibleInk" src="https://github.com/user-attachments/assets/684b2702-9265-45a6-8ef3-c6e01e566620" />
+
 > **Master's Research Project in Natural Language Processing (NLP)**  
 > **University of Isfahan — Department of Artificial Intelligence**
 
